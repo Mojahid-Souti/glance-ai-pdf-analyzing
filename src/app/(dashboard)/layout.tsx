@@ -113,7 +113,7 @@ export default function DashboardLayout({
               {[
                 { icon: Layout, label: 'Dashboard', href: '/dashboard', active: true },
                 { icon: FileText, label: 'Documents', href: '/dashboard/documents' },
-                { icon: Search, label: 'Search', href: '#' },
+                { icon: Search, label: 'Search', href: '/dashboard/search' },
                 { 
                   icon: Edit3, 
                   label: 'Glance Editor', 
